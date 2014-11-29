@@ -1,10 +1,10 @@
 react-comment-example
 =====================
 
-Just the React comment example with Christmas theme using nodejs 
+Just the React comment example with Christmas theme using nodejs.
 [From react comment tutorial](http://facebook.github.io/react/docs/tutorial.html).
 
-##React Component
+##React
 
 ###### Component
   
